@@ -6,7 +6,3 @@
 -😄 Pronouns: She/Her
 -⚡ Fun fact: Common sense and logic is not so common.
 
-<!---
-dishita93agrawal/dishita93agrawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
