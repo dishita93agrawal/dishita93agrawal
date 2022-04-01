@@ -10,5 +10,5 @@
 
 -😄 Pronouns: She/Her
 
--⚡ Fun fact: Common sense and logic is not so common.
+-⚡ Fun fact: I continue to code.
 
